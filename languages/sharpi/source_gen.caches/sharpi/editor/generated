@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="eb6s4blhp9o8nvsxlbseqa7sx2brx5f">
+  <files names="API_Editor.java:API_EditorBuilder_a.java:CommandList_Editor.java:CommandList_EditorBuilder_a.java:ContentType_Editor.java:ContentType_EditorBuilder_a.java:EditorAspectDescriptorImpl.java:Input_Editor.java:Input_EditorBuilder_a.java:JsonBody_Editor.java:JsonBody_EditorBuilder_a.java:Output_Editor.java:Output_EditorBuilder_a.java:Route_Editor.java:Route_EditorBuilder_a.java:XmlBody_Editor.java:XmlBody_EditorBuilder_a.java" />
+</product>
+

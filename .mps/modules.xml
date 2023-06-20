@@ -3,6 +3,7 @@
   <component name="MPSProject">
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/sharpi/sharpi.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/sharpi.sandbox/sharpi.sandbox.msd" folder="" />
     </projectModules>
   </component>
 </project>
